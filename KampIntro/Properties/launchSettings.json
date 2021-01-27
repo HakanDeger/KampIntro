@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KampIntro": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
